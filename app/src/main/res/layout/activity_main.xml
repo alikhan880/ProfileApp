@@ -85,7 +85,7 @@
                 android:layout_width="24dp"
                 android:layout_height="24dp"
                 android:layout_weight="3"
-                android:src="@mipmap/ic_launcher_round" />
+                android:src="@drawable/cellphone" />
 
             <TextView
                 android:layout_width="0dp"
@@ -124,7 +124,7 @@
                 android:layout_height="24dp"
                 android:layout_weight="3"
 
-                android:src="@mipmap/ic_launcher_round" />
+                android:src="@drawable/email" />
 
             <TextView
                 android:layout_width="0dp"
@@ -159,7 +159,7 @@
                 android:layout_height="24dp"
                 android:layout_weight="3"
 
-                android:src="@mipmap/ic_launcher_round" />
+                android:src="@drawable/email" />
 
             <TextView
                 android:layout_width="0dp"
@@ -197,7 +197,7 @@
                 android:layout_width="24dp"
                 android:layout_height="24dp"
                 android:layout_weight="3"
-                android:src="@mipmap/ic_launcher_round" />
+                android:src="@drawable/map_marker" />
 
             <TextView
                 android:layout_width="0dp"
